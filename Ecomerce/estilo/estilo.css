@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face {
+    font-family:'Poppins';
+    src: url("poppins.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+   
+}
+.sec{
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 262px;
+
+}
+.frete{
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 539px;
+
+
+}
+.parc{
+    position: absolute;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 861px;
+
+}
+
+.logo{
+    position:absolute;
+    display: block;
+    margin-top: 45px;
+    margin-left: 56px;
+}
+.barra_busca{
+    position: absolute;
+    display: inline-block;
+    font-family: Poppins;
+    font-size: 14px;
+    margin-top: 44px;
+    margin-left: 290px;
+    height: 48px;
+    width: 657px;
+    border: none;
+    border-radius: 15px;
+
+}
+.pesquisa{
+    position: absolute;
+    display: inline-block;
+    margin-top: 54px;
+    margin-left: 903px;
+    border: none;
+}
+.grupo{
+    position: absolute;
+    display: inline-block;
+    margin-top: 46.62px;
+    margin-left: 1000px;
+}
+.heart{
+    position: absolute;
+    display: inline-block;
+    margin-top: 53px;
+    margin-left: 1064px;
+
+}
+.user{
+    position: absolute;
+    display: inline-block;
+    margin-top: 53px;
+    margin-left: 1128px;
+}
+.car{
+    position: absolute;
+    display: inline-block;
+    margin-top: 53px;
+    margin-left: 1192px;
+}
